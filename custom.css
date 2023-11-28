@@ -11,6 +11,10 @@
     font-style: normal;
 }
 
+.reveal .slide-number {
+    font-size: 0.4em;
+}
+
 .citation {
     font-size: 0.6em;
 }
