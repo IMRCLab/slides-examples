@@ -201,6 +201,12 @@ Box2
 
 Great robotics books [@springerHandbook; @lavallePlanningBook]
 
+## Slide Examples
+
+::: {.r-fit-text}
+?
+:::
+
 # Appendix
 
 ## References
