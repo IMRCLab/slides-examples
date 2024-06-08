@@ -1,0 +1,6 @@
+[submodule "example-slides-revealjs"]
+	path = example-slides-revealjs
+	url = https://github.com/IMRCLab/example-slides-revealjs.git
+[submodule "example-slides-latex"]
+	path = example-slides-latex
+	url = https://github.com/IMRCLab/example-slides-latex.git
